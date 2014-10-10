@@ -18,3 +18,4 @@ Support for personalised countdown based on timetable.
 Active sub-projects:
 - the countdown
 - setting up html and css side. (web visuals)
+- everything, basically
